@@ -1,0 +1,9 @@
+target
+.project
+.classpath
+.settings
+.idea
+*.iml
+Thumbs.db
+obj/
+libs/
